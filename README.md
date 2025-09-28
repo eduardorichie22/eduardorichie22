@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/eduardorichie22/eduardorichie22/main/images/banner.png" alt="Profile Banner" width="100%"/> 
-  </div>
-
 # Hello, I'm Eduardo Richie Imanuell 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-richie-imanuell-16b4891b3/)
